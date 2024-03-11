@@ -1,0 +1,571 @@
+---------------------------------------------------
+M.U.G.E.N ver 1.1.0 Beta 1 P1 (2013.08.11) status log
+---------------------------------------------------
+Parsing command line...
+Command line: C:\Users\Max Duvert\Downloads\OpenBor_Development\MWGv0.2\MWG\MWG.exe
+Parse command line OK
+Initializing...
+Allocating game variables
+Reading configuration file...Setting language "en".
+OK
+Initializing timer...performance timer enabled...frequency 10000000...OK
+Initializing keyboard...configuring...OK
+Initializing input engine...OK
+Initializing sound...OK
+Initializing BGM...  OK
+Initializing graphics...gameCoord 320x240...render mode 2_20...trying 1500x790x32 mode 0x0...success...OK
+Setting callbacks...OK
+Initializing font...OK
+Initializing game variables...OK
+Session RNG seed is 1689097311
+Loading system fonts...OK
+Loading options...
+Initializing pads...OK
+Reinitializing input engine...OK
+Remapping keys...OK
+Reinitializing input engine...OK
+Options loaded OK
+Loading system...
+  Load system file system.def...OK
+  Load system spr...OK
+  Load system snd...OK
+  Load system fonts...OK
+  Load system anim...OK
+  Load [Title Info]...OK
+  Load [Option Info]...OK
+  Load [Select Info]...OK
+  Load [VS Screen]...OK
+  Load [Victory Screen]...OK
+  Load [Demo Mode]...OK
+  Load [Continue Screen]...OK
+  Load [Game Over Screen]...OK
+  Load [Win Screen]...OK
+  Load [Survival Results Screen]...OK
+  Load [Default Ending]...OK
+  Load [End Credits]...OK
+  Load TitleBG...VersusBG...VictoryBG...SelectBG...OptionBG...OK
+  Loading fight data
+    Opening fight data file data/Fight/Fight.def...OK
+    Reading [Files]...OK
+    Loading fonts...OK
+    Load fight anim...OK
+    Reading [Lifebar]...[Turns Lifebar]...[Simul Lifebar]...[Powerbar]...
+    [Face]...[Simul Face]...[Turns Face]...
+    [Name]...[Simul Name]...[Turns Name]...
+    [Time]...[Combo]...[Round]...[WinIcon]...OK
+    Allocating explods...OK
+  Fight data loaded OK
+Lua initing
+Lua init complete
+System loaded OK
+Initialize OK
+Set up graphics...timer...OK
+
+Entering gameflow loop
+Gameflow 0
+Gameflow 1
+Playing storyboard Logo.def: scene
+Unloading match assets
+Freeing players
+Game loop init
+Game loop deinit
+Finished playing storyboard Logo.def: scene
+Gameflow 2
+Initializing character info...OK
+Initializing select screen...finding characters...
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-/-.def
+
+  Error reading character file: chars/-------------------------------------------------------------------------------------------------------------------------------------------------/-------------------------------------------------------------------------------------------------------------------------------------------------.def
+OK
+Gameflow 3
+Playing storyboard Intro.def: scene
+Unloading match assets
+Freeing players
+Game loop init
+Game loop deinit
+Finished playing storyboard Intro.def: scene
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Game loop deinit
+Canceled character select.
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 5
+Entering options screen.
+Unloading match assets
+Freeing players
+Game loop init
+Options screen init
+Config pads menu
+Setting up input
+Remapping keys...OK
+Reinitializing input engine...OK
+Return from config pads menu
+End of options screen loop
+Game loop deinit
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 33 on teamslot 0.0
+Char BlackKnight.def (33) request pal 0 3 (3) -> reserved 0 (2)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Char Hawkeye.def (8) request pal 0 3 (3) -> reserved 0 (2)
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 937333912
+Reset persist vars team 1
+Loading character chars/BlackKnight/BlackKnight.def...
+  Loading info...OK
+  Loading cmd command set BlackKnight.cmd...OK
+  Loading cns BlackKnight.cns...OK
+  Loading cmd state entry BlackKnight.cmd...OK
+  Loading common states MWGcommon.cns...OK
+  Loading sff BlackKnight.sff...OK
+  Loading anim BlackKnight.air...OK
+  Loading snd BlackKnight.snd...OK
+  Loading pals...OK
+  4352 expressions (1465 on trigger lines)
+Character BlackKnight.def loaded OK
+New char Black Knight loaded into cache: (1/6 cached) Load time: 870.000ms
+Loading character chars/Hawkeye/Hawkeye.def...
+  Loading info...OK
+  Loading cmd command set Hawkeye.cmd...OK
+  Loading cns Hawkeye.cns...OK
+  Loading cmd state entry Hawkeye.cmd...OK
+  Loading common states MWGcommon.cns...OK
+  Loading sff Hawkeye.sff...OK
+  Loading anim Hawkeye.air...OK
+  Loading snd Hawkeye.snd...OK
+  Loading pals...OK
+  4330 expressions (1409 on trigger lines)
+Character Hawkeye.def loaded OK
+New char Hawkeye loaded into cache: (2/6 cached) Load time: 440.000ms
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 62.95s
+Total frames: 2519 	Skipped frames: 0
+Avg game rate: 40.02
+Avg frame rate: 40.02
+
+Finishing match
+Freeing players
+Save persist vars P56 Black Knight
+Player Black Knight cache count reduced: 0
+Save persist vars P57 Hawkeye
+Player Hawkeye cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Game loop deinit
+Canceled character select.
+Gameflow 4
+Entering mode select.
+Unloading match assets
+Freeing players
+Game loop init
+Mode select init
+End of mode select loop
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 33 on teamslot 0.0
+Char BlackKnight.def (33) request pal 0 3 (3) -> reserved 0 (2)
+Selected char 13 on teamslot 1.0
+Char Ironman.def (13) request pal 0 3 (3) -> reserved 0 (2)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 868707477
+Reset persist vars team 0
+Reset persist vars team 1
+Player Black Knight cache count increased: 1
+Loading character chars/Ironman/Ironman.def...
+  Loading info...OK
+  Loading cmd command set Ironman.cmd...OK
+  Loading cns Ironman.cns...OK
+  Loading cmd state entry Ironman.cmd...OK
+  Loading common states MWGcommon.cns...OK
+  Loading sff Ironman.sff...OK
+  Loading anim Ironman.air...OK
+  Loading snd Ironman.snd...OK
+  Loading pals...OK
+  4465 expressions (1511 on trigger lines)
+Character Ironman.def loaded OK
+New char Ironman loaded into cache: (3/6 cached) Load time: 750.000ms
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 327.10s
+Total frames: 13085 	Skipped frames: 0
+Avg game rate: 40.00
+Avg frame rate: 40.00
+
+Finishing match
+Freeing players
+Save persist vars P56 Black Knight
+Player Black Knight cache count reduced: 0
+Save persist vars P57 Ironman
+Player Ironman cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 13 on teamslot 0.0
+Char Ironman.def (13) request pal 0 3 (3) -> reserved 0 (2)
+Selected char 13 on teamslot 1.0
+Char Ironman.def (13) request pal 0 3 (2) -> reserved 1 (0)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 2011059752
+Reset persist vars team 0
+Reset persist vars team 1
+Player Ironman cache count increased: 1
+Player Ironman cache count increased: 2
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 194.42s
+Total frames: 7778 	Skipped frames: 0
+Avg game rate: 40.01
+Avg frame rate: 40.01
+
+Finishing match
+Freeing players
+Save persist vars P56 Ironman
+Player Ironman cache count reduced: 1
+Save persist vars P57 Ironman
+Player Ironman cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init
+Selected char 25 on teamslot 0.0
+Char Nova.def (25) request pal 0 3 (3) -> reserved 0 (2)
+Selected char 50 on teamslot 1.0
+Char AbsorbingMan.def (50) request pal 0 3 (3) -> reserved 0 (2)
+End of charsel loop
+Game loop deinit
+Gameflow 8
+Gameflow 9
+Gameflow 10
+Entering versus screen.
+Unloading match assets
+Freeing players
+Game loop init
+Versus screen init
+End of versus screen loop
+Game loop deinit
+Gameflow 11
+Loading match assets...
+Loading stage...
+  Loading BG...OK
+Stage loaded OK
+  Allocating helpers...OK
+Match RNG seed: 1009932903
+Reset persist vars team 0
+Reset persist vars team 1
+Loading character chars/Nova/Nova.def...
+  Loading info...OK
+  Loading cmd command set Nova.cmd...OK
+  Loading cns Nova.cns...OK
+  Loading cmd state entry Nova.cmd...OK
+  Loading common states MWGcommon.cns...OK
+  Loading sff Nova.sff...OK
+  Loading anim Nova.air...OK
+  Loading snd Nova.snd...OK
+  Loading pals...OK
+  4328 expressions (1452 on trigger lines)
+Character Nova.def loaded OK
+New char Nova loaded into cache: (4/6 cached) Load time: 840.000ms
+Loading character chars/AbsorbingMan/AbsorbingMan.def...
+  Loading info...OK
+  Loading cmd command set AbsorbingMan.cmd...OK
+  Loading cns AbsorbingMan.cns...OK
+  Loading cmd state entry AbsorbingMan.cmd...OK
+  Loading common states MWGcommon.cns...OK
+  Loading sff AbsorbingMan.sff...OK
+  Loading anim AbsorbingMan.air...OK
+  Loading snd AbsorbingMan.snd...OK
+  Loading pals...OK
+  4270 expressions (1439 on trigger lines)
+Character AbsorbingMan.def loaded OK
+New char AbsorbingMan loaded into cache: (5/6 cached) Load time: 610.000ms
+Resetting round
+Match assets initialized OK
+Game loop init
+Match loop init
+End of match loop
+Total time: 133.43s
+Total frames: 5338 	Skipped frames: 0
+Avg game rate: 40.01
+Avg frame rate: 40.01
+
+Finishing match
+Freeing players
+Save persist vars P56 Nova
+Player Nova cache count reduced: 0
+Save persist vars P57 AbsorbingMan
+Player AbsorbingMan cache count reduced: 0
+Match RNG closed
+Game loop deinit
+Gameflow 6
+Reset persist vars team 0
+Reset persist vars team 1
+Gameflow 7
+Entering character select.
+Unloading match assets
+Freeing players
+Unloading stage...OK
+Game loop init
+Unreserved all palettes
+Charsel init

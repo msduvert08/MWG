@@ -1,0 +1,43 @@
+MARVEL SUPER HEROES WAR OF GEMS for MUGEN by RobsonMSH. v0.1
+
+BELOW IS A LIST OF PEOPLE INVOLVED DIRECTLY AND INDIRECTLY IN THE PROJECT:
+
+LEADER PROJECT
+- RobsonMSH.
+
+MAIN PROGRAMMING
+- RobsonMSH.
+
+CODING HELPERS
+- Axellord and EXDoragon1
+
+SPRITEWORK AND PALETTES
+- RobsonMSH.
+
+ORIGINAL SPRITES
+- CAPCOM "Marvel War of Gems, 1996".
+- ZVitor "Marvel Infinity War" (FANGAME).
+- Gladiacloud "Dormammu".
+- Bam77 "Surtur".
+
+STAGES
+- MatreroG.
+- ELECTRO "Boston Aquarium", "Amazon" and "Bayou HideOut".
+
+SOUND ENGINNER
+- RobsonMSH
+
+ORIGINAL SCREENPACK, TEMPLATE AND COMMON STATES
+- VladAlucard "Dragon Ball Butuden Rtsuden Mugen".
+
+ORIGINAL INFINITY GEMS SYSTEM
+- Qkrtkf!.
+
+ORIGINAL SCORE SYSTEM
+- RaajaBoy.
+
+
+NOTE: If you have any suggestions for including credits, let the developer know so they can be analyzed and included if necessary.
+
+
+

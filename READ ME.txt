@@ -1,0 +1,71 @@
+MARVEL SUPER HEROES WAR OF GEMS for MUGEN by RobsonMSH. v0.1
+
+Before we start some FAQs with the Developer:
+
+1- The game seems kind of slow to me, with some slowdowns, is there something wrong with it?
+R: Well, this is a design choice for the project that seeks, in addition to greater fidelity to the graphic aspect, also to the gameplay aspect found on the SNES.
+Remember that you are in Mugen, so you just have to access the game options and change the speed, life, sound as you wish. However, know that the standards have been tested to provide you with a better experience.
+
+2- Where are the Guardians of Galaxy?
+R: The game is not based on Marvel's MCU, but on the Infinity War arc published in comics in the 90s, so the choice of roster is based on that period. 
+Note: This does not mean that there are no possibilities for special participation in the future.
+
+3- No air combos like in Arcades?
+R: No, and the explanation is given by the fact that the game does not intend to be exactly like MSH Arcade, but a port that is more similar to SF2 or Word Heroes for console.
+
+4- I put some characters to face others from another screenpack and it didn't work?
+R: These characters were developed to work only within the official WoG screenpack, so we don't support them in other projects.
+
+5- I'm a creator and I love the 16-bit style, I'd like to contribute...how do I do it?
+R: The best way to co-contribute is to join the official team and do this in a coordinated way, we are looking for creators with the necessary talent and passion to help with the tasks, 
+so get in touch with us through the forums or via the game's Official Discord.
+
+
+========================================================================================================================================================================================================================
+HOW TO PLAY
+========================================================================================================================================================================================================================
+- Each character has attacks per state (stand, crouch and air), requiring a button for each attack. Ex: "A" for attack 1 and "B" for attack 2.
+- Throws need a button for them. For example: "C". But be aware, because not every character has this feature, some chars that are favored for being "shooters" may not have this feature, 
+so slower chars that do not have this feature can make their throws and punish the opponent a lot.
+- Characters who have weapons like Punisher use a separate button for this, depending on the height you want to shoot the projectile: Ex: "X" for horizontal projectiles and "Y" for upward diagonal ones.
+- There are characters that can fly like Magneto or simply hang from the ceiling like Beast. In this case you will use two simultaneous buttons to enter these states: Ex: "X" + "Y".
+- Character specials try to follow the standards of SNES fighting games like SF2 or World Heroes, so some use QCF+attack and others need to hold to come out. Ex: To throw C.America's shield, 
+use "QCF+A", while to make a Tackle with Hulk, you need to "hold 2 sec backwards + forward B".
+- Generally a character has 1 Hyper and a few have 2, and to run them you must use almost the same logic as the specials. However, you must use "X+Y". Ex: To run IronMan's Uni-Beam you use "QCF+xy", 
+to run Juggernaut's Hyper , you need to "hold 4 sec backwards + forward XY".
+- To activate the Infinity Gem "START" is used.
+
+========================================================================================================================================================================================================================
+INFINITY GEMS SYSTEM
+========================================================================================================================================================================================================================
+Just like the classic Arcade game, this game contains 6 Gems that can be used one by the player. However, there are different conditions and functioning that we will explain below:
+- Gems are randomly generated for the player and do not depend on which character you choose.
+- Gems can only be used once during the round. If the Round ends new Gems will be randomly generated again.
+- There is only one exceptional condition for the player to be unable to use the Gems, in this case when facing the opponent Thanos, either as AI or P2.
+- The activated Gem grants you a temporary advantage, here they are listed:
+a) Time: Increases the player's speed in walk and dash/run states.
+b) Space: Makes the char intangible.
+c) Reality: Makes your attacks unblockable.
+d) Soul: Restores char lifebar.
+e) Mind: while activating your Power remains at maximum.
+f) Power: Doubles the strength of your attacks.
+
+========================================================================================================================================================================================================================
+DIZZY/STUN SYSTEM
+========================================================================================================================================================================================================================
+For this Mugen version, the following criterion was adopted to take a character to the Dizzy/Stun State, if its power bar is below 100 and the character receives a hit that takes it to a fall state, 
+after getting up the character will enter this state.
+In this system, the player who abuses the use of projectiles is punished.
+
+========================================================================================================================================================================================================================
+PASSIVE SKILLS
+========================================================================================================================================================================================================================
+The game tries to remain balanced most of the time, precisely because all chars have been developed on the same skeleton. However, as it is a large shared universe, 
+so I decided to implement some imbalances based on characteristics of the chars or even on the history of battles between them.
+Ex: Iceman cannot freeze Sasquatch, Captain America gets stronger if he has low life, Magneto can paralyze characters that are made of Metal or using armor of the same material, 
+since characters with the same characteristics are immune to projectiles fired by Punisher and others. These are just a few examples, you'll have to play to discover them.
+
+========================================================================================================================================================================================================================
+SCORE SYSTEM
+========================================================================================================================================================================================================================
+Unfortunately, in this Mugen version, due to engine limitations, the points will not accumulate, so they only serve to "improve" the game's aesthetics.
